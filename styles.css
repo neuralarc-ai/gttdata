@@ -740,7 +740,7 @@ body {
 .footer-logo {
     height: 36px;
     width: auto;
-    filter: brightness(0) invert(1);
+    filter: brightness(0);
     margin-bottom: var(--spacing-sm);
 }
 
