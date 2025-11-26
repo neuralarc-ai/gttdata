@@ -740,8 +740,8 @@ body {
 .footer-logo {
     height: 36px;
     width: auto;
-    filter: brightness(0);
-    margin-bottom: var(--spacing-sm);
+    mix-blend-mode: lighten;
+    opacity: 0.9;
 }
 
 .footer-tagline {
